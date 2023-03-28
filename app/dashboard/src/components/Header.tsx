@@ -22,7 +22,7 @@ import {
 import { useDashboard } from "contexts/DashboardContext";
 import { FC, ReactNode, useState } from "react";
 import { Link } from "react-router-dom";
-import GitHubButton from "react-github-btn";
+//import GitHubButton from "react-github-btn";
 import { DONATION_URL, REPO_URL } from "constants/Project";
 
 const DarkIcon = chakra(MoonIcon, {
