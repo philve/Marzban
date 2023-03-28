@@ -12,7 +12,7 @@ export const Footer: FC<BoxProps> = (props) => {
         color="gray.500"
         fontSize="xs"
       >
-        Made with ❤️ in{" "}
+        Contact us in{" "}
         <Link color="blue.400" href={ORGANIZATION_URL}>
           FiNet
         </Link>
