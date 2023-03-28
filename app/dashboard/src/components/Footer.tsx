@@ -14,7 +14,7 @@ export const Footer: FC<BoxProps> = (props) => {
       >
         Made with ❤️ in{" "}
         <Link color="blue.400" href={ORGANIZATION_URL}>
-          Gozargah
+          FiNet
         </Link>
       </Text>
     </HStack>
